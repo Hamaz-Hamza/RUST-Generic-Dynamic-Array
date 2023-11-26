@@ -10,7 +10,8 @@ Every time the complete allocated memory block is filled, double new memory is a
 
 This implementation also releases memory when the array goes out of scope.
 
-Functions implemented: 
+Functions implemented:
+
 => length
 
 => get
